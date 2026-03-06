@@ -1,0 +1,14 @@
+Package: listness-lite
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Maintainer: Your Name <your.email@example.com>
+Description: 轻量级计划清单应用
+ 一个简单的任务管理应用，可以：
+  - 添加任务
+  - 标记完成/未完成
+  - 删除任务
+  - 搜索任务
+ 界面简洁，轻量快速。
