@@ -1,0 +1,55 @@
+.task-row {
+    padding: 8px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.task-row.completed {
+    background-color: #f5f5f5;
+    color: #888;
+}
+.task-check {
+    margin-right: 8px;
+}
+.task-text {
+    font-size: 14px;
+}
+.task-text.completed {
+    text-decoration: line-through;
+}
+.search-entry {
+    margin: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.add-button {
+    margin: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.add-button:hover {
+    background-color: #45a049;
+}
+.plus-button {
+    font-size: 32px;
+    margin: 10px;
+    padding: 0;
+    background-color: #800080;
+    color: white;
+    border-radius: 50%;
+}
+.plus-button:hover {
+    background-color: #45a049;
+}
+.delete-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 3px 8px;
+}
+.delete-button:hover {
+    background-color: #da190b;
+}
