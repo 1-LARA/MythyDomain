@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FirstPace
+Comment=轻量级计划清单
+Exec=firstpace
+Icon=firstpace
+Terminal=false
+Categories=Utility;
+Keywords=todo;list;task;

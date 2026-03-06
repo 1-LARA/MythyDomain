@@ -8,9 +8,6 @@ __pycache__/
 *.egg
 *.deb
 
-# Build directory
-firstpace/
-
 # Virtual environment
 venv/
 .env
